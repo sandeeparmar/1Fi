@@ -1,0 +1,71 @@
+[
+  {
+    "id": "iphone-15",
+    "title": "iPhone 15",
+    "category": "Smartphones",
+    "description": "A bright, durable phone with an advanced dual-camera system.",
+    "image": "https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&w=900&q=85",
+    "startingPrice": 64999,
+    "variants": [
+      { "name": "128 GB", "price": 64999 },
+      { "name": "256 GB", "price": 74999 },
+      { "name": "512 GB", "price": 94999 }
+    ],
+    "emiPlans": [
+      { "months": 3, "monthly": 21667, "label": "Short and simple" },
+      { "months": 6, "monthly": 10834, "label": "Most popular" },
+      { "months": 12, "monthly": 5417, "label": "Smallest monthly payment" }
+    ]
+  },
+  {
+    "id": "macbook-air",
+    "title": "MacBook Air M3",
+    "category": "Laptops",
+    "description": "Thin, light, and ready for a full day of work or study.",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=85",
+    "startingPrice": 99990,
+    "variants": [
+      { "name": "8 GB / 256 GB", "price": 99990 },
+      { "name": "16 GB / 512 GB", "price": 129990 }
+    ],
+    "emiPlans": [
+      { "months": 3, "monthly": 33330, "label": "Short and simple" },
+      { "months": 6, "monthly": 16665, "label": "Most popular" },
+      { "months": 12, "monthly": 8333, "label": "Smallest monthly payment" }
+    ]
+  },
+  {
+    "id": "sony-headphones",
+    "title": "Sony WH-1000XM5",
+    "category": "Audio",
+    "description": "Premium noise cancelling headphones for focused listening.",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=85",
+    "startingPrice": 29990,
+    "variants": [
+      { "name": "Black", "price": 29990 },
+      { "name": "Silver", "price": 29990 }
+    ],
+    "emiPlans": [
+      { "months": 3, "monthly": 9997, "label": "Short and simple" },
+      { "months": 6, "monthly": 4998, "label": "Most popular" },
+      { "months": 12, "monthly": 2499, "label": "Smallest monthly payment" }
+    ]
+  },
+  {
+    "id": "samsung-tv",
+    "title": "Samsung 55-inch 4K TV",
+    "category": "Home electronics",
+    "description": "Bring cinema-quality picture and sound into your living room.",
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=900&q=85",
+    "startingPrice": 54990,
+    "variants": [
+      { "name": "55 inch", "price": 54990 },
+      { "name": "65 inch", "price": 74990 }
+    ],
+    "emiPlans": [
+      { "months": 3, "monthly": 18330, "label": "Short and simple" },
+      { "months": 6, "monthly": 9165, "label": "Most popular" },
+      { "months": 12, "monthly": 4583, "label": "Smallest monthly payment" }
+    ]
+  }
+]
